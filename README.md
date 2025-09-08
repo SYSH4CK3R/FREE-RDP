@@ -28,7 +28,7 @@ Contact [SYSH4CK3R](https://t.me/SysH4ck3r).
 3. ```bash
    sudo apt install wine64 wine32 -y
    ```
-=
+
    
 ## My Information
 
