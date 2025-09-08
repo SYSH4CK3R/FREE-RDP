@@ -17,8 +17,19 @@ Contact [SYSH4CK3R](https://t.me/SysH4ck3r).
 4. ```bash
    PORT : 8006
    ```
+### [+] Installation Exe
 
-
+1. ```bash
+   sudo dpkg --add-architecture i386
+   ```
+2. ```bash
+   sudo apt-get update -y
+   ```
+3. ```bash
+   sudo apt install wine64 wine32 -y
+   ```
+=
+   
 ## My Information
 
 [WEBSITE](http://www.sysh4ck3r.giize.com/)
