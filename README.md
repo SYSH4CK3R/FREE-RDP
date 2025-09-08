@@ -6,10 +6,10 @@ Contact [SYSH4CK3R](https://t.me/SysH4ck3r).
 
 [console.cloud.google](https://console.cloud.google.com/).
 1. ```bash
-   git clone https://github.com/SYSH4CK3R/RDP-FREE
+   git clone https://github.com/SYSH4CK3R/FREE-RDP
    ```
 2. ```bash
-   cd RDP-FREE
+   cd FREE-RDP
    ```
 3. ```bash
    bash rdp.sh
