@@ -29,6 +29,8 @@ Contact [SYSH4CK3R](https://t.me/SysH4ck3r).
    sudo apt install wine64 wine32 -y
    ```
 
+   PASSWORD : masa
+
    
 ## My Information
 
